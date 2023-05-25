@@ -1,0 +1,4 @@
+name: GoldenInventories
+version: '${project.version}'
+main: de.tomstahlberg.goldeninventories.GoldenInventories
+api-version: 1.19
